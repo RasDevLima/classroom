@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { NextPage } from 'next';
 import Link from 'next/link';
 
